@@ -2,7 +2,7 @@
   
 - Sou a **Samara Alanna**, estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo. 
 
-- Apaixonada por tecnologia e conhecimento, focada em **Desenvolvimento Web Full Stack**.
+- Apaixonada por tecnologia e design, focada em **Desenvolvimento Front-end e Design UI/UX**.
 
 ────────────────────────────────୨ৎ──────────────────────────────
 <div align="left">
