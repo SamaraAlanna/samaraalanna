@@ -1,3 +1,10 @@
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamaraAlanna/SamaraAlanna/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamaraAlanna/SamaraAlanna/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamaraAlanna/SamaraAlanna/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### Oie :)
   
 - Sou a **Samara Alanna**, estudante de **Análise e Desenvolvimento de Sistemas** e **UX/UI Design** com paixão por arte, tecnologia e experiências digitais centradas no usuário. 
@@ -43,14 +50,6 @@
 ## Frameworks e bibliotecas
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-
-<div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamaraAlanna/SamaraAlanna/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamaraAlanna/SamaraAlanna/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamaraAlanna/SamaraAlanna/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## Contatos
 
