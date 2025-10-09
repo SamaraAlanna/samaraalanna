@@ -1,8 +1,8 @@
 ### Oie :)
   
-- Sou a **Samara Alanna**, estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo. 
+- Sou a **Samara Alanna**, estudante de **Análise e Desenvolvimento de Sistemas** e **UX/UI Design** com paixão por arte, tecnologia e experiências digitais centradas no usuário. 
 
-- Apaixonada por tecnologia e design, focada em **Desenvolvimento Front-end e Design UI/UX**.
+- Atualmente, atuo em **Front-End** e **Design UI/UX**, combinando lógica e criatividade para criar interfaces modernas, acessíveis e intuitivas.
 
 ────────────────────────────────୨ৎ──────────────────────────────
 <div align="left">
@@ -12,17 +12,25 @@
 
 ────────────────────────────────୨ৎ────────────────────────────────
 
-## Informações úteis sobre mim como desenvolvedora:
+## Informações úteis sobre mim como UX/UI Designer:
+- Estudante de **UX/UI Design EAD** - Alura
+- Habilidades em **UX Research**: prototipagem, design de interfaces, design systems e testes de usabilidade, aplicando métodos como Design Thinking, Design Sprint e Atomic Design.
+- Habilidades em **UI Design**: hierarquia visual, tipografia, paletas acessíveis, iconografia, componentes reutilizáveis e layouts responsivos.
+- **Mentalidade estratégica com foco em decisões baseadas em dados, Data Storytelling e conexão entre design e objetivos de negócio**.
+
+## Informações úteis sobre mim como Desenvolvedora Front-End:
 </div>
 
-- Estudante de Análise e desenvolvimento de sistemas EAD - Universidade Positivo
-- Especialista em Gerenciamento de Ameaças Cibernéticas pela Cisco.
+- Estudante de **Análise e desenvolvimento de sistemas EAD** - Universidade Positivo
+- Especialista em **Gerenciamento de Ameaças Cibernéticas** pela Cisco.
 
 --
 
-- Domínio de Git e GitHub (Certificado pela Alura)
-- Domínio de Lógica de programação (Certificado pela Alura)
-- HTML5, CSS3 e JavaScript (Certificado pela Ada)
+- Gerenciamento de Ameaças Cibernéticas - Cisco Networking Academy (16h, 2025)
+- Git e GitHub - Alura (8h, 2025)
+- Lógica de Programação em JavaScript - Alura (16h, 2025)
+- Engenharia de Software - Universidade Cruzeiro do Sul (20h, 2025)
+- HTML – Ada (3h, 2025)
 
 ## Linguagens
 <div style="display: inline_block"><br>
@@ -48,5 +56,5 @@
 ## Contatos
 
 - Email: sami_andrade@outlook.com.br
-- Linkedin: https://www.linkedin.com/in/samara-alanna-15019b23a/
+- Linkedin: https://www.linkedin.com/in/samaraalanna/
 
