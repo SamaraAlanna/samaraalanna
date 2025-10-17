@@ -1,15 +1,7 @@
-<div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamaraAlanna/SamaraAlanna/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamaraAlanna/SamaraAlanna/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamaraAlanna/SamaraAlanna/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### Oie :)
   
-- Sou a **Samara Alanna**, estudante de **Análise e Desenvolvimento de Sistemas** e **UX/UI Design** com paixão por arte, tecnologia e experiências digitais centradas no usuário. 
-
-- Atualmente, atuo em **Front-End** e **Design UI/UX**, combinando lógica e criatividade para criar interfaces modernas, acessíveis e intuitivas.
+- Sou a **Samara Alanna**, estudante de **Análise e Desenvolvimento de Sistemas** e **Design Gráfico** com paixão por arte, tecnologia e experiências digitais centradas no usuário. 
+- **UX/UI Design** com experiência em **Front-End** e **Back-End.**
 
 ────────────────────────────────୨ৎ──────────────────────────────
 <div align="left">
@@ -20,24 +12,23 @@
 ────────────────────────────────୨ৎ────────────────────────────────
 
 ## Informações úteis sobre mim como UX/UI Designer:
-- Estudante de **UX/UI Design EAD** - Alura
-- Habilidades em **UX Research**: prototipagem, design de interfaces, design systems e testes de usabilidade, aplicando métodos como Design Thinking, Design Sprint e Atomic Design.
-- Habilidades em **UI Design**: hierarquia visual, tipografia, paletas acessíveis, iconografia, componentes reutilizáveis e layouts responsivos.
-- **Mentalidade estratégica com foco em decisões baseadas em dados, Data Storytelling e conexão entre design e objetivos de negócio**.
+  
+- **Ferramentas**: Figma, FigJam, FlowMapp, TypeScale, Adobe Color, Git, GitHub, Canva, Notion, Trello, Microsoft Teams, Google Workspace
+- **UX/UI**: Design Thinking, Wireframes, Prototipagem, Tipografia, Paletas de cores (HSB), Grids e espaçamento, Design Systems, Usabilidade e Acessibilidade (WCAG)
+  - **Pesquisa e Estratégia**: Desk Research, Pesquisas qualitativas e quantitativas, Briefing, Benchmarking, Jornada do usuário, Matriz Impacto x Esforço, Personas, Moodboards, User Flow, Sitemap, Avaliação heurística, Card Sorting, Testes A/B, UX Research, UX Strategist, Customer Experience, Product Strategist, Arquitetura da informação, Análise de dados, BMC, UX Canvas.
+  - **Figma (nível avançado)**: Variáveis, Estilos, Componentes, Auto Layout, Inteligência Artificial, Prototipagem com condicionais, Bibliotecas compartilháveis
 
-## Informações úteis sobre mim como Desenvolvedora Front-End:
-</div>
+- **Informática e TI**: Pacote Office, Sistemas operacionais, Suporte técnico, OBS e STREAMLABS, redes e servidores
 
-- Estudante de **Análise e desenvolvimento de sistemas EAD** - Universidade Positivo
-- Especialista em **Gerenciamento de Ameaças Cibernéticas** pela Cisco.
+- **Cybersecurity**: Resposta a incidentes de segurança, Teste de penetração, CVSS, Cyber Kill Chain, Diamond Model Of Intrusion Analysis
 
---
-
-- Gerenciamento de Ameaças Cibernéticas - Cisco Networking Academy (16h, 2025)
-- Git e GitHub - Alura (8h, 2025)
-- Lógica de Programação em JavaScript - Alura (16h, 2025)
+## Certificações em destaque:
+- **UX Design** - Alura (42h, 2025)
+- **Figma** - Alura (41h, 2025)
+- Carreira UI Design - Alura (62h, cursando)
+- Carreira UX Design - Alura (195h, cursando)
 - Engenharia de Software - Universidade Cruzeiro do Sul (20h, 2025)
-- HTML – Ada (3h, 2025)
+- Gerenciamento de Ameaças Cibernéticas - Cisco Networking Academy (16h, 2025)
 
 ## Linguagens
 <div style="display: inline_block"><br>
