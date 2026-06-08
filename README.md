@@ -9,14 +9,7 @@ Em dupla graduação em **Análise e Desenvolvimento de Sistemas** (Universidade
 
 ────────────────────────────────୨ৎ──────────────────────────────
 
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamaraAlanna&show_icons=true&theme=blue_navy" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaraAlanna&layout=compact&theme=blue_navy" />
-</div>
-
-────────────────────────────────୨ৎ──────────────────────────────
-
-## 🛠 Stack
+## Stack
 
 **Design**
 - Figma (nível avançado: Variáveis, Componentes, Auto Layout, Prototipagem com condicionais, Bibliotecas), FigJam, Adobe Illustrator, Photoshop
