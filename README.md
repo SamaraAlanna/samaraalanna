@@ -1,7 +1,11 @@
 ### Oie :)
 
-- Sou a **Samara Alanna**, estudante de **Análise e Desenvolvimento de Sistemas** e **Design Gráfico**, apaixonada por arte, tecnologia e experiências digitais centradas no usuário.
-- **UX/UI Designer** e **Desenvolvedora Full Stack** — atuo da pesquisa e prototipação no Figma até a implementação em código.
+**UX/UI Designer | Desenvolvedora Full Stack**
+
+Em dupla graduação em **Análise e Desenvolvimento de Sistemas** (Universidade Positivo) e **Design Gráfico** (Uninter). Atuo na interseção entre design e código — da pesquisa e prototipação no Figma à implementação front-end e back-end.
+
+- Designer Multimídia na **@TecSinapse** — wireframes, protótipos e layouts no Figma, evolução do Design System e implementação de interfaces em HTML, CSS, PHP, JavaScript e WordPress
+- Fundadora da **BORDA Design** — Identidade Visual, Branding, UX/UI e Desenvolvimento Web
 
 ────────────────────────────────୨ৎ──────────────────────────────
 
@@ -12,52 +16,58 @@
 
 ────────────────────────────────୨ৎ──────────────────────────────
 
-## Sobre mim como UX/UI Designer
+## 🛠 Stack
 
-- **Ferramentas**: Figma, FigJam, FlowMapp, TypeScale, Adobe Color, Git, GitHub, Canva, Notion, Trello, Microsoft Teams, Google Workspace
-- **UX/UI**: Design Thinking, Wireframes, Prototipagem, Tipografia, Paletas de cores (HSB), Grids e espaçamento, Design Systems, Usabilidade e Acessibilidade (WCAG)
-- **Pesquisa e Estratégia**: Desk Research, pesquisas qualitativas e quantitativas, Briefing, Benchmarking, Jornada do usuário, Matriz Impacto x Esforço, Personas, Moodboards, User Flow, Sitemap, Avaliação heurística, Card Sorting, Testes A/B, Arquitetura da informação
-- **Figma (avançado)**: Variáveis, Estilos, Componentes, Auto Layout, Prototipagem com condicionais, Bibliotecas compartilháveis
+**Design**
+- Figma (nível avançado: Variáveis, Componentes, Auto Layout, Prototipagem com condicionais, Bibliotecas), FigJam, Adobe Illustrator, Photoshop
+- Design Systems, Wireframes, Prototipagem, Usabilidade e Acessibilidade (WCAG), Arquitetura da informação
 
-## Sobre mim como Desenvolvedora
+**Front-end**
+- HTML5, CSS3 (Variáveis nativas, Flexbox, Grid), JavaScript (Vanilla, ES6+), jQuery, Bootstrap 5
+- Design responsivo, animações e microinterações
 
-- **Front-end**: HTML5, CSS3 (Variáveis, Flexbox, Grid), JavaScript (Vanilla, ES6+), jQuery, Bootstrap 5, design responsivo, animações e microinterações
-- **Back-end & CMS**: PHP, WordPress (tema customizado), Elementor, integração via Webhook (n8n), Fetch/AJAX
-- **Versionamento & Deploy**: Git, GitHub, GitHub Actions (CI/CD via FTP)
-- **Cybersecurity**: noções de resposta a incidentes, CVSS, Cyber Kill Chain, Diamond Model (em estudo)
+**Back-end & CMS**
+- PHP, WordPress (tema customizado), Elementor
+- Integração via Webhook (n8n), Fetch/AJAX assíncrono
 
-## Certificações em destaque
+**Versionamento & Deploy**
+- Git, GitHub, GitHub Actions (CI/CD via FTP)
 
-- **UX Design** — Alura (198h, 2025)
-- **Figma** — Alura (41h, 2025)
-- **Carreira UI Design** — Alura (62h, cursando)
-- **Carreira UX Design** — Alura (195h, cursando)
-- **Engenharia de Software** — Universidade Cruzeiro do Sul (20h, 2025)
-- **Gerenciamento de Ameaças Cibernéticas** — Cisco Networking Academy (16h, 2025)
+## Projeto em destaque — VOGE Brasil
 
-## Linguagens
+Site institucional da VOGE Brasil (marca premium de motocicletas), em **WordPress com tema customizado**:
+
+- Formulários customizados com validações em **JavaScript puro, sem bibliotecas**: algoritmo completo de CPF, telefone, e-mail com bloqueio de domínios inválidos e máscaras dinâmicas
+- Selects dependentes Estado/Cidade integrando JSON com **5.570+ municípios brasileiros**
+- Integração assíncrona via **webhook n8n**, com segurança por nonce do WordPress
+- Resolução de conflitos de especificidade CSS (Bootstrap × tema × custom) via CSS Variables nativas
+- Mega menu responsivo, carrossel com vídeo nativo e páginas de modelo com troca dinâmica de imagens
+
+## Formação & Certificações
+
+- Tecnólogo em **Análise e Desenvolvimento de Sistemas** — Universidade Positivo (cursando)
+- Tecnólogo em **Design Gráfico** — Uninter (cursando)
+- **UX Design** (198h) e **Figma** (41h) — Alura
+- **Engenharia de Software** — Universidade Cruzeiro do Sul
+- **Gerenciamento de Ameaças Cibernéticas** — Cisco Networking Academy
+
+## Linguagens & Ferramentas
 
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-</div>
-
-## Frameworks, bibliotecas e ferramentas
-
-<div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-## Contatos
+## Contato
 
-- Email: sami_andrade@outlook.com.br
 - LinkedIn: https://www.linkedin.com/in/samaraalanna
+- Behance: https://www.behance.net/samaraalanna
+- Email: sami_andrade@outlook.com.br
