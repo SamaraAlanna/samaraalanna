@@ -1,17 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:F9C5D5,50:F178A1,100:C4799A&height=180&section=header&text=Oie!%20Eu%20sou%20a%20Samara%20:)&fontColor=ffffff&fontSize=34&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F178A1&height=180&section=header&text=Oie!%20Eu%20sou%20a%20Samara%20:)&fontColor=ffffff&fontSize=34&animation=fadeIn" width="100%"/>
 
-### `UX/UI Designer` &nbsp;•&nbsp; `Desenvolvedora Full Stack`
+### `UX/UI Designer` &nbsp; `Desenvolvedora Full Stack`
 
 <p>
-desenho a interface no Figma e sou eu mesma que codifico ela depois,<br>
-pensando a viabilidade técnica já enquanto desenho :)
+apaixonada por construir do começo ao fim: desenho no Figma,<br>
+codifico, coloco no ar e mantenho. o processo inteiro passa por mim :)
 </p>
 
 <a href="https://bordadesign.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-F178A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/samaraalanna"><img src="https://img.shields.io/badge/LinkedIn-C4799A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.behance.net/samaraalanna"><img src="https://img.shields.io/badge/Behance-F9A8C4?style=for-the-badge&logo=behance&logoColor=white"/></a>
 <a href="mailto:sami_andrade@outlook.com.br"><img src="https://img.shields.io/badge/Email-E68BB0?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 
 </div>
@@ -20,11 +19,11 @@ pensando a viabilidade técnica já enquanto desenho :)
 
 ## 🎀 sobre mim
 
-- 🎓 em dupla graduação em **Análise e Desenvolvimento de Sistemas** (Universidade Positivo) e **Design Gráfico** (Uninter)
-- 💼 **Designer Multimídia** na [@TecSinapse](https://github.com/tecsinapse)
-- 🌸 fundadora da **BORDA Design**, estúdio de Identidade Visual, Branding, UX/UI e Desenvolvimento Web
-- 💗 atuo na interseção entre **design e código**, da pesquisa e prototipação no Figma à implementação front-end e back-end
-- 📊 explorando também **IA Generativa, análise de dados, SQL, Python e cibersegurança**
+- em dupla graduação em **Análise e Desenvolvimento de Sistemas** (Universidade Positivo) e **Design Gráfico** (Uninter)
+- **Designer Multimídia** na [@TecSinapse](https://github.com/tecsinapse)
+- fundadora da **BORDA Design**, estúdio de Identidade Visual, Branding, UX/UI e Desenvolvimento Web
+- atuo na interseção entre **design e código**, da pesquisa e prototipação no Figma à implementação front-end e back-end
+- explorando também **IA Generativa, análise de dados, SQL, Python e cibersegurança**
 
 ---
 
@@ -70,18 +69,14 @@ pensando a viabilidade técnica já enquanto desenho :)
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamaraAlanna&show_icons=true&hide_border=true&title_color=F178A1&icon_color=EC6A9C&text_color=C4799A&bg_color=1a1520" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaraAlanna&layout=compact&hide_border=true&title_color=F178A1&text_color=C4799A&bg_color=1a1520" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamaraAlanna&hide_border=true&background=1a1520&ring=F178A1&fire=EC6A9C&currStreakLabel=F178A1&sideLabels=C4799A&dates=C4799A&stroke=C4799A" width="49%"/>
-
 </div>
 
 ---
 
 ## 💗 projetos
 
-- 🔍 **[wiki-react](https://github.com/SamaraAlanna/wiki-react)** — aplicação React com consumo da API do GitHub
-- 🧮 **[calculadora-react](https://github.com/SamaraAlanna/calculadora-react)** — aplicação React com gerenciamento de estado via hooks
+- **[wiki-react](https://github.com/SamaraAlanna/wiki-react)** — aplicação React com consumo da API do GitHub
+- **[calculadora-react](https://github.com/SamaraAlanna/calculadora-react)** — aplicação React com gerenciamento de estado via hooks
 
 <div align="center">
 
@@ -89,6 +84,6 @@ pensando a viabilidade técnica já enquanto desenho :)
 
 **quer trocar uma ideia ou falar de um projeto? me chama :)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:C4799A,50:F178A1,100:F9C5D5&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F178A1&height=100&section=footer" width="100%"/>
 
 </div>
