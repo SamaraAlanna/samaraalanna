@@ -17,16 +17,6 @@ codifico, coloco no ar e mantenho. o processo inteiro passa por mim :)
 
 ---
 
-## 🎀 sobre mim
-
-- em dupla graduação em **Análise e Desenvolvimento de Sistemas** (Universidade Positivo) e **Design Gráfico** (Uninter)
-- **Designer Multimídia** na [@TecSinapse](https://github.com/tecsinapse)
-- fundadora da **BORDA Design**, estúdio de Identidade Visual, Branding, UX/UI e Desenvolvimento Web
-- atuo na interseção entre **design e código**, da pesquisa e prototipação no Figma à implementação front-end e back-end
-- explorando também **IA Generativa, análise de dados, SQL, Python e cibersegurança**
-
----
-
 ## 🌷 stack
 
 ### Design
@@ -59,24 +49,6 @@ codifico, coloco no ar e mantenho. o processo inteiro passa por mim :)
 ![Git](https://img.shields.io/badge/Git-F178A1?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-EC6A9C?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-F9A8C4?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 🌸 estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SamaraAlanna&show_icons=true&hide_border=true&title_color=F178A1&icon_color=EC6A9C&text_color=C4799A&bg_color=1a1520" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaraAlanna&layout=compact&hide_border=true&title_color=F178A1&text_color=C4799A&bg_color=1a1520" />
-
-</div>
-
----
-
-## 💗 projetos
-
-- **[wiki-react](https://github.com/SamaraAlanna/wiki-react)** — aplicação React com consumo da API do GitHub
-- **[calculadora-react](https://github.com/SamaraAlanna/calculadora-react)** — aplicação React com gerenciamento de estado via hooks
 
 <div align="center">
 
