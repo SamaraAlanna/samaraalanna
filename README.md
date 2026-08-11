@@ -2,8 +2,6 @@
 
 oie! desenho no Figma com boas práticas de UX/UI e implemento em HTML, CSS, JavaScript, React, TypeScript e PHP (com WordPress), meus contatos estão no fim do readme ;)
 
-<br/>
-
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-F178A1?style=for-the-badge&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-EC6A9C?style=for-the-badge&logo=adobeillustrator&logoColor=white)
