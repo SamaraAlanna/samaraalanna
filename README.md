@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F178A1&height=180&section=header&text=Oie!%20Eu%20sou%20a%20Samara%20:)&fontColor=ffffff&fontSize=34&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F178A1&height=160&section=header&animation=fadeIn" width="100%"/>
 
 ### `UX/UI Designer` &nbsp; `Desenvolvedora Full Stack`
 
@@ -15,9 +15,7 @@ codifico, coloco no ar e mantenho. o processo inteiro passa por mim :)
 
 </div>
 
----
-
-## 🌷 stack
+<br/>
 
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-F178A1?style=for-the-badge&logo=figma&logoColor=white)
