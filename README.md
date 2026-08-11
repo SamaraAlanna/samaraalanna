@@ -1,19 +1,12 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F178A1&height=160&section=header&animation=fadeIn" width="100%"/>
 
 ### `UX/UI Designer` &nbsp; `Desenvolvedora Full Stack`
 
-<p>
-apaixonada por construir do começo ao fim: desenho no Figma,<br>
-codifico, coloco no ar e mantenho. o processo inteiro passa por mim :)
-</p>
+apaixonada por construir do começo ao fim: desenho no Figma, codifico, coloco no ar e mantenho. o processo inteiro passa por mim :)
 
 <a href="https://bordadesign.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-F178A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/samaraalanna"><img src="https://img.shields.io/badge/LinkedIn-C4799A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sami_andrade@outlook.com.br"><img src="https://img.shields.io/badge/Email-E68BB0?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
-
-</div>
 
 <br/>
 
@@ -48,12 +41,4 @@ codifico, coloco no ar e mantenho. o processo inteiro passa por mim :)
 ![GitHub](https://img.shields.io/badge/GitHub-EC6A9C?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-F9A8C4?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<div align="center">
-
-<br/>
-
-**quer trocar uma ideia ou falar de um projeto? me chama :)**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F178A1&height=100&section=footer" width="100%"/>
-
-</div>
